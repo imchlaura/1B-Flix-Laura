@@ -1,5 +1,13 @@
 body {
   color: black;
-
+  background: black;
   margin: 0px;
 }
+
+
+header {
+  border-bottom: solid 2px #15a5e3
+  padding: 20px;
+  font-size: 50px;
+  color: #b125ff;
+  
