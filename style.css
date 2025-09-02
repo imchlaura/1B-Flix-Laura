@@ -10,4 +10,31 @@ header {
   padding: 20px;
   font-size: 50px;
   color: #b125ff;
-  
+}
+
+section{
+  backgroud: #0628e9;
+  padding-bottom: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.texto {
+  margin-right: 5%;
+}
+
+h1 {
+  font_size: 40px
+}
+
+p {
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
