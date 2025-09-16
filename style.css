@@ -9,13 +9,14 @@ body {
 header {
   border-bottom: solid 2px #b125ff;
   padding: 20px;
-  font-size: 50px;
+  font-size: 40px;
   color: #b125ff;
 }
 
 section{
   backgroud: #0628e9;
   padding-bottom: 80px;
+  padding-top: 80px;
   display: flex;
   justify-content: center;
 }
