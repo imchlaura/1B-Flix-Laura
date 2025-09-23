@@ -33,7 +33,16 @@ p {
   font-size: 20px;
 }
 
+.outros {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
 
+.outrosvideos {
+  padding-right: 20px;
+  padding-left: 20px;
+}
 
 
 
